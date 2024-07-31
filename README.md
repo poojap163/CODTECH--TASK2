@@ -1,3 +1,15 @@
+CODTECH-TASK2
+NAME: POOJA ADAGALL
+COMPANY: CODTECH IT SOLUTIONS
+ID: CT12DS1947
+DOMAIN: DATA SCIENTIST
+MENTOR: Muzammil Ahmed
+
+
+
+OVERVIEW OF THE PROJECT
+Project:  PREDICTIVE MODELING WITH LINEAR REGRESSION
+
 #### Objective
 The primary objective of this project is to develop a predictive model using linear regression to predict a target variable based on one or more independent variables. The project involves data preprocessing, model building, evaluation, and interpretation of results. The specific goal is to understand the relationship between the predictors and the target variable and to use this relationship to make accurate predictions.
 
